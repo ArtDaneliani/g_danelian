@@ -1,0 +1,104 @@
+/*header*/
+@media(min-width: 992px){
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 95% !important;
+    }
+    .navbar-expand-custom {
+        -ms-flex-flow: row nowrap !important;
+        flex-flow: row nowrap !important;
+        -ms-flex-pack: start !important;
+        justify-content: flex-start !important;
+    }
+    .navbar-expand-custom .navbar-nav {
+        -ms-flex-direction: row !important;
+        flex-direction: row !important;
+    }
+    .navbar-expand-custom .navbar-toggler {
+        display: none !important;
+    }
+    .navbar-expand-custom .navbar-collapse {
+        display: -ms-flexbox!important;
+        display: flex!important;
+        -ms-flex-preferred-size: auto !important;
+        flex-basis: auto !important;
+    }
+}
+@media (max-width: 991px){
+    /* header.header {
+          position: fixed !important;
+          width: 100% !important;
+          top: 0 !important;
+    } */
+    footer.footer {
+        background: #222424 !important;
+        box-shadow: none !important;
+        border-top: 1px solid #121515 !important;
+        position: relative !important;
+        /*margin-top: 1em !important;*/
+        color: #f2e7d382 !important;
+    }
+    #navbarSupportedContent ul li ul li a {
+        font-size: 0.9em !important;
+          padding: 10px !important;
+          color: #d9d0be !important;
+    }
+    #navbarSupportedContent ul li a{
+        padding: 15px 0px !important;
+    }
+    .hori-selector{
+        margin-top: 10px !important;
+    }
+    .navbar-logo {
+        padding: 15px 15px 15px 0px !important;
+        font-size: 1rem !important;
+        letter-spacing: 0.1rem !important;
+    }
+    .main-container .bottom-right a h2,
+    .main-container .bottom-left a h2,
+    .main-container .right a h2,
+    .main-container .left a h2 {
+        font-size: 13px !important;
+        font-weight: 300 !important;
+    }
+    .sub-menu {
+        position: unset !important;
+        float: unset !important;
+        min-width: 100% !important;
+        box-shadow: unset !important;
+  }
+  .hori-selector {
+      display: block !important;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

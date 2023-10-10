@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: my-plugin-name\n"
+"POT-Creation-Date: 2020-02-28 18:47+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Myname <myemail@gmail.com>\n"
+"Language-Team: My Super Team\n"
+"Language: ge\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: footer.php:55 index.php:111
+msgid "Берлин"
+msgstr "ბერლინი"
+
+#: footer.php:56 index.php:111
+msgid "(Германия)"
+msgstr "(გერმანია)"
+
+#: footer.php:60 index.php:110
+msgid "Довер"
+msgstr "დუვერი"
+
+#: footer.php:61 index.php:110
+msgid "(США)"
+msgstr "(აშშ)"
+
+#: footer.php:67 index.php:108
+msgid "Минск"
+msgstr "მინსკი"
+
+#: footer.php:68 index.php:108
+msgid "(Беларусь)"
+msgstr "(ბელორუსია)"
+
+#: footer.php:72 index.php:109
+msgid "Тбилиси"
+msgstr "თბილისი"
+
+#: footer.php:73 index.php:109
+msgid "(Грузия)"
+msgstr "(საქართველო)"
+
+#: footer.php:78
+msgid "Политика конфиденциальности"
+msgstr "კონფიდენციალურობის პოლიტიკა"
+
+#: header.php:65 header.php:72 index.php:441
+msgid "Контакты"
+msgstr "კონტაქტები"
+
+#: header.php:69 index.php:48
+msgid "Решения"
+msgstr "ამოხსნები"
+
+#: header.php:70 index.php:85
+msgid "О нас"
+msgstr "ჩვენს შესახებ"
+
+#: header.php:71 index.php:398
+msgid "Портфолио"
+msgstr "პორტფოლიო"
+
+#: inc/mailer.php:12 index.php:446
+msgid "Имя"
+msgstr "სახელი"
+
+#: inc/mailer.php:13 index.php:450
+msgid "Фамилия"
+msgstr "გვარი"
+
+#: inc/mailer.php:14 index.php:456
+msgid "Email"
+msgstr "ელ.ფოსტა"
+
+#: inc/mailer.php:15 index.php:460
+msgid "Компания"
+msgstr "კომპანია"
+
+#: inc/mailer.php:16
+msgid "Сообщение"
+msgstr "მესიჯი"
+
+#: inc/mailer.php:48
+msgid "Отправлено успешно"
+msgstr "წარმატებით გაგზავნეს"
+
+#: inc/mailer.php:51
+msgid "Проверка не пройдена"
+msgstr "გადამოწმება ვერ მოხერხდა"
+
+#: index.php:42
+msgid "Заказать сайт"
+msgstr "საიტის შეკვეთა"
+
+#: index.php:58 index.php:70 index.php:77
+msgid "Связаться"
+msgstr "კონტაქტი"
+
+#: index.php:107
+msgid "Офисы"
+msgstr "ოფისები"
+
+#: index.php:181
+msgid "Клиентов возвращаются за новыми разработками"
+msgstr "კლიენტების გვიბრუნდება ახალი შეკვეთებით"
+
+#: index.php:227
+msgid "Проектов получают сопровождение после запуска"
+msgstr "პროექტის მხარდაჭერა წარმოების შემდეგ"
+
+#: index.php:265
+msgid "Клиентов получают оперативную обратную связь от команды"
+msgstr "კლიენტთა 100% ოპერატიულად უკავშირდება ჩვენს გუნდს"
+
+#: index.php:344
+msgid "Разработчиков имеют международные сертификаты"
+msgstr "მწარმოებელთა გააჩნია საერთაშორისო სერიფიკატები"
+
+#: index.php:417
+msgid "Описание"
+msgstr "აღწერა"
+
+#: index.php:423
+msgid "Длительность"
+msgstr "ხანგრძლივობა"
+
+#: index.php:463
+msgid "Расскажите о своем проекте..."
+msgstr "გვითხარით თქვენი პროექტის შესახებ..."
+
+#: index.php:470
+msgid "файлов выбрано"
+msgstr "არჩეული ფაილები"
+
+#: index.php:472
+msgid "Приложить файл"
+msgstr "ფაილის მიმაგრება"
+
+#: index.php:476
+msgid "Отправить"
+msgstr "გაგზავნა"
+
+#: page-thanks.php:18
+msgid "Вернуться на сайт"
+msgstr "ვებგვერდზე დაბრუნება"
