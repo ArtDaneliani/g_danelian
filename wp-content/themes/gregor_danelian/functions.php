@@ -20,29 +20,29 @@ function register_acf_options_pages() {
     ));
 
     // add sub page
- /*   acf_add_options_sub_page(array(
+    acf_add_options_sub_page(array(
         'page_title' 	=> 'Главная страница RU',
         'menu_title' 	=> 'Главная страница RU',
         'menu_slug'		=> 'main-options',
         'parent_slug' 	=> $parent['menu_slug']
-    ));*/
+    ));
 
-/*    $parent_en = acf_add_options_page(array(
+    $parent_en = acf_add_options_page(array(
         'page_title' 	=> 'Настройки EN',
         'menu_title' 	=> 'Настройки EN',
         'menu_slug'		=> 'gener-options-en',
         'redirect' 		=> false,
         'post_id'		=> 'option_en'
-    ));*/
+    ));
 
     // add sub page
-   /* acf_add_options_sub_page(array(
+    acf_add_options_sub_page(array(
         'page_title' 	=> 'Главная страница EN',
         'menu_title' 	=> 'Главная страница EN',
         'menu_slug'		=> 'main-options-en',
         'parent_slug' 	=> $parent_en['menu_slug'],
         'post_id'		=> 'option_en'
-    ));*/
+    ));
 }
 // Hook into acf initialization.
 add_action('acf/init', 'register_acf_options_pages');
